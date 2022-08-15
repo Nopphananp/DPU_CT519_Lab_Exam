@@ -1,3 +1,3 @@
-module gobasic
-go 1.18
+module App_B
 
+go 1.18
